@@ -1,0 +1,7 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+utilisateur		NFI		nouveau fichier
+client		NFI		nouveau fichier
+crédit		NFI		nouveau fichier
+paiement		NFI		nouveau fichier
+client		NWL	client (IDclient) et crédit (IDclient)	Nouvelle liaison entre les fichiers client (IDclient) et crédit (IDclient)
+client		NWL	client (IDclient) et paiement (IDclient)	Nouvelle liaison entre les fichiers client (IDclient) et paiement (IDclient)

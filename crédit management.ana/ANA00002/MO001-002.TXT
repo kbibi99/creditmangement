@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+crédit		TAR	95	nouvelle taille enregistrement : 95
+crédit	type	RUB+		type est une nouvelle rubrique
+paiement		TAR	95	nouvelle taille enregistrement : 95
+paiement	typep	RUB+		typep est une nouvelle rubrique
